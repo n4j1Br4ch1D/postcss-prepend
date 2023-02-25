@@ -1,0 +1,47 @@
+{
+  "name": "postcss-prepend",
+  "version": "1.0.2",
+  "description": "A PostCSS plugin to add comments to the start of CSS files with optional ASCII art. prepend copyrights, License, author information, or any other message you want to.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test",
+    "postcss": "postcss test/demo/src/**/*.css  --dir test/demo/build",
+    "postcss:watch": "postcss test/demo/src/**/*.css  --dir test/demo/build --watch"
+  },
+  "keywords": [
+    "CSS Prepend",
+    "PostCSS",
+    "CSS prepender",
+    "PostCSS plugin",
+    "production CSS files",
+    "CSS Copyrights",
+    "Code customization",
+    "CSS customization",
+    "CSS comments",
+    "ASCII art",
+    "Figlet",
+    "Code formatting",
+    "CSS preprocessing",
+    "Build tools",
+    "MIT License",
+    "licensing",
+    "author information",
+    "on top of CSS File",
+    "begining of css file",
+    "Prepend Comment to CSS file",
+    "PostCSS comment prepend",
+    "Code Protection"
+  ],
+  "author": "Najib-Rachid",
+  "license": "MIT",
+  "devDependencies": {
+    "figlet": "^1.5.2",
+    "postcss-cli": "^10.1.0"
+  },
+  "dependencies": {
+    "postcss": "^8.4.21"
+  },
+  "directories": {
+    "test": "test"
+  }
+}
