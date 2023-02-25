@@ -8,6 +8,8 @@ This plugin allows you to prepend a comment to your CSS files containing text su
 
 **keywords:** *CSS Prepend, PostCSS, CSS prepender, PostCSS plugin, production CSS files, CSS Copyrights, Code customization, CSS customization, CSS comments, ASCII Art, Figlet, Code formatting, CSS preprocessing, Build tools, MIT License, licensing, author information, on top of CSS File, begining of css file, Prepend Comment to CSS file, PostCSS comment prepend, Code Protection.*
 
+**Check Also:** <a href="https://github.com/n4j1Br4ch1D/postcss-obfuscator" target="_blank" title="postcss-obfuscator: HTML/CSS Obfuscation Compiling">PostCSS-Obfuscator</a>
+
 ---
 
 ## Installation
