@@ -14,11 +14,11 @@ This plugin allows you to prepend a comment to your CSS files containing text su
 
 ```sh
 # npm
-npm install postcss-prepend --save-dev
+npm install postcss-prepend-plugin --save-dev
 ```
 ```sh
 # yarn
-yarn add postcss-prepend --dev
+yarn add postcss-prepend-plugin --dev
 ```
 
 ## Usage
