@@ -1,6 +1,6 @@
 # :copyright: postcss-prepend
 
-- :date:**19-22-2023** :pushpin:**Version 1.0.5**
+- :date:**19-22-2023** :pushpin:**Version 1.0.6**
 - :computer:<a href="https://github.com/n4j1Br4ch1D" target="_blank" title="NajibRachid: Agile full-stack developer">NajibRachid</a> :purple_circle:<a href="https://anmoonweb.com/?ref=postcss-prepend" target="_blank" title="ANMOON: Right talents at the right place ">ANMOON</a> :office: <a href="https://x-hub.io/?ref=anmoon-postcss-prepend" target="_blank" title="XHUB: For Developers By Developers">XHUB</a>
 
 A simple PostCSS plugin that prepends a comment to the top of your CSS files.

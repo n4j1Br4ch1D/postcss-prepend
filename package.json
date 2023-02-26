@@ -35,11 +35,11 @@
   "author": "Najib-Rachid",
   "license": "MIT",
   "devDependencies": {
-    "figlet": "^1.5.2",
     "postcss-cli": "^10.1.0"
   },
   "dependencies": {
-    "postcss": "^8.4.21"
+    "postcss": "^8.4.21",
+    "figlet": "^1.5.2"
   },
   "directories": {
     "test": "test"
